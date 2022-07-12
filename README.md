@@ -1,6 +1,6 @@
-# ICO Fresh Token
+# ICO On Arora Testnet
 
-Fresh Token Smart Contract
+Token Smart Contract
 
 Token (**FRTK**) is created and deployed on Aurora Test network => [0x4228c42B33003500b07DBdb58675ACD3f28Ef23a](https://testnet.aurorascan.dev/address/0x4228c42B33003500b07DBdb58675ACD3f28Ef23a)
 
